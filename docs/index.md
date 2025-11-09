@@ -131,6 +131,6 @@ Here's what sets me apart and how I can help drive value for your business:
     
     Want to see if we're a match? Let's have a chat and find out. Schedule a free 30-minute strategy session to discuss your AI challenges and explore how we can work together.
 
-    [Book Free Intro Call :material-arrow-top-right:](https://calendly.com){ .md-button .md-button--primary }
+    [Book Free Intro Call :material-arrow-top-right:](https://calendly.com/joesamara/introductory-call){ .md-button .md-button--primary }
 
 </div>
