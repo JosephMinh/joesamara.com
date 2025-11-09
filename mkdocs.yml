@@ -4,13 +4,13 @@ site_url: https://joesamara.com
 nav:
   - Home:
     - About: index.md
-  # - Case Studies:
-  #   - Overview: portfolio/index.md
-  #   - Projects:
-  #     - portfolio/projects/project-1.md
-  #     - portfolio/projects/project-2.md
-  # - Blog:
-  #   - blog/index.md
+  - Case Studies:
+    - Overview: portfolio/index.md
+    - Projects:
+      - portfolio/projects/project-1.md
+      - portfolio/projects/project-2.md
+  - Blog:
+    - blog/index.md
 
 theme:
   name: material
